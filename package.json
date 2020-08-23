@@ -1,0 +1,11 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "pet project for English learners",
+  "main": "app.js",
+  "scripts": {
+    "dev": "start app.js"
+  },
+  "author": "Lena Kim <lenahomerus@gmail.com>",
+  "license": "ISC"
+}
