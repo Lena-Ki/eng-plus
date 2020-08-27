@@ -5,7 +5,7 @@ export default function Lessons({ lessons }) {
   
   return (
     <MainLayout>
-      <h1>Lessons list</h1>
+      <h1 className="h3 text-center mt-3">Lessons list</h1>
       <ul>
         { lessons.map( item => (
           <li key={item.id}>
