@@ -7,7 +7,7 @@ export function MainLayout({ children }) {
       <main>
         <div className="container bg-light w-75 pl-0 pr-0">
           <HeaderNav />
-          <div className="d-flex" style={{height: '85vh'}}>
+          <div className="d-flex mt-3" style={{height: '85vh'}}>
             <SideNav />
             <div className="w-100 overflow-auto">
               {children}

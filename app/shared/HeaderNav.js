@@ -11,7 +11,7 @@ export const HeaderNav = () => {
 
         <div className="collapse navbar-collapse" id="navbarToggler">
           <ul className="navbar-nav mr-auto">
-            <li className="nav-item active">
+            <li className="nav-item">
               <Link href={'/'}><a className="nav-link">Home</a></Link>
             </li>
             <li className="nav-item">

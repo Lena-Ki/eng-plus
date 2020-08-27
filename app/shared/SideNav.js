@@ -1,7 +1,7 @@
 export const SideNav = () => {
   return (
     <>
-      <div className="row pt-2 w-25 mr-4">
+      <div className="row w-25 mr-4">
         <div className="col pr-0">
           <div className="nav flex-column nav-tabs" role="tablist" aria-orientation="vertical">
             <a className="nav-link active" data-toggle="pill" role="tab" aria-selected="true">Home</a>
